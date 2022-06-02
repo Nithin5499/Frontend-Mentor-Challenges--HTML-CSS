@@ -1,0 +1,36 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+img {
+    margin: 5% 2%;
+    width: 90%;
+    height: 60%;
+    border-radius: 3.5%;
+}
+
+.QR-Code {
+    width: 19%;
+    height: 60%;
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    top: 20%;
+    left: 43%;
+    border-radius: 4%;
+}
+
+.title1 {
+    font-weight: 700;
+    font-size: larger;
+    font-family: 'Outfit', sans-serif;
+    padding: 0 10% 0 10%;
+}
+
+p {
+    padding: 0 10%;
+    font-size: 96%;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
